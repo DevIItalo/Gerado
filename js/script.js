@@ -22,8 +22,7 @@ var imagens = {
         { caminho: 'img/o-cachorro.png', nome: 'Cow Girl' },
         { caminho: 'img/o-estandarte.png', nome: 'O Estandarte'},
         { caminho: 'img/uma-subita.png', nome: 'Uma Subita'},
-        { caminho: 'img/vaqueira-invertida.png', nome: 'Vaqueira Invertida'},
-    ]
+        { caminho: 'img/vaqueira-invertida.png', nome: 'Vaqueira Invertida'}]
     };
 
 var geraBtn = document.getElementById('geraBtn');
