@@ -1,12 +1,12 @@
 //Aleatorio
 var imagens = {
     aleatorio: [
-    { caminho: '../img/tv.png', nome: 'Assistir qualquer coisa' },
-    { caminho: '../img/casar.png', nome: 'Pode casar comigo, mas se eu quiser kakaka' },
-    { caminho: '../img/romance.png', nome: 'Ter um Romance' },
-    { caminho: '../img/filhos.png', nome: 'Ter filhos' },
-    { caminho: '../img/netflix.png', nome: 'Assistir Netflix' },
-    { caminho: '../img/hentai.png', nome: 'Assistir hentai/pôrno'},],
+    { caminho: './img/tv.png', nome: 'Assistir qualquer coisa' },
+    { caminho: './img/casar.png', nome: 'Pode casar comigo, mas se eu quiser kakaka' },
+    { caminho: './img/romance.png', nome: 'Ter um Romance' },
+    { caminho: './img/filhos.png', nome: 'Ter filhos' },
+    { caminho: './img/netflix.png', nome: 'Assistir Netflix' },
+    { caminho: './img/hentai.png', nome: 'Assistir hentai/pôrno'},],
    bj: [
     { caminho: '../gif/Beijo-apaixonado.gif', nome: 'Me dar um beijo apaixonado'},
     { caminho: '../gif/Beijo-cinema.gif', nome: 'Me dar um beijo conematrográfico'},
